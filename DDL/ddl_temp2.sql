@@ -1,4 +1,4 @@
-create or replace table foo2 (
+create or replace table foo3 (
     col1 int,
     col2 varchar,
     col3 varchar,
