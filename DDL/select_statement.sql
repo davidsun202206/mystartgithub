@@ -1,0 +1,1 @@
+select * from DB_MASKING.SCH_MASKING.CUSTOMERS;
